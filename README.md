@@ -1,6 +1,7 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-### NAME:YUGABHARATHI
-### DATE: 212224240314
+### NAME:YUGABHARATHI M
+### REGISTER NO:212224230314
+### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
